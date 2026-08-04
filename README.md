@@ -15,13 +15,15 @@ you can install it by hand, pin a version, or check what shipped.
 
 ## Downloads
 
-The current build sits in [`builds/`](builds), and every version is also
-attached to its [release](../../releases):
+Builds are on the [releases page](../../releases). Every release attaches
+two zips:
 
 | File | For |
 | --- | --- |
-| [`pour-devtools-chromium-1.2.18.zip`](builds/pour-devtools-chromium-1.2.18.zip) | Chrome and Edge, Manifest V3 |
-| [`pour-devtools-firefox-1.2.18.zip`](builds/pour-devtools-firefox-1.2.18.zip) | Firefox 140 and later, Manifest V3 |
+| `pour-devtools-chromium-<version>.zip` | Chrome and Edge, Manifest V3 |
+| `pour-devtools-firefox-<version>.zip` | Firefox 140 and later, Manifest V3 |
+
+Latest: [v1.2.18](../../releases/latest).
 
 The store version is the one to use. Install a zip by hand only if you need
 a specific version or your organisation sideloads extensions.
