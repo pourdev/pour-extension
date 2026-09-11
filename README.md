@@ -4,14 +4,14 @@ Packaged builds of **pour DevTools**, the accessibility testing,
 documentation and vision simulation extension from
 [pour.dev](https://pour.dev).
 
-Every release here is the exact build submitted to the browser stores, so
-you can install it by hand, pin a version, or check what shipped.
+These releases provide packaged builds for manual installation and version
+pinning. Browser store releases may follow later.
 
 ## Install
 
 - **Chrome and Edge**: [Chrome Web
   Store](https://chromewebstore.google.com/detail/cmebappepecpgihmahkfmaahmajglgch)
-- **Firefox**: listing is in review, coming soon
+- **Firefox**: [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/pour-devtools/)
 
 ## Downloads
 
@@ -23,7 +23,7 @@ two zips:
 | `pour-devtools-chromium-<version>.zip` | Chrome and Edge, Manifest V3 |
 | `pour-devtools-firefox-<version>.zip` | Firefox 140 and later, Manifest V3 |
 
-Latest: [v1.2.18](../../releases/latest).
+Latest: [download the latest release](../../releases/latest).
 
 The store version is the one to use. Install a zip by hand only if you need
 a specific version or your organisation sideloads extensions.
